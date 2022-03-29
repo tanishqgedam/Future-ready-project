@@ -1,8 +1,9 @@
-# Future-ready-project
+# Future-ready-projectt
  **Tanishque Gedam**
  \
  \
- **(Proof of use of Azure Services for Project):**
+ ** (Proof of use of Azure Services for Project):**
+ \
 ## Project Steps:
 ### Step 1: Create a resource group under QnA maker in Azure Portal
 \
